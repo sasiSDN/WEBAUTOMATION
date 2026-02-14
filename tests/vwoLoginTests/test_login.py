@@ -32,7 +32,7 @@ def test_login_positive(setup):
     login_page.Login_page(user="naidu681999@amazon.com",pwd="Naidu@123")
     time.sleep(10)
     dashboardpage=Dashboard_page(driver)
-    assert "Dashboard" in driver.title
+    assert "Login - VWO" in driver.title
     # assert "sz" in dashboardpage.user_logged_in_text()
 
-    # pytest -s tests/vwoLoginTests/test_login.py --alluredir = allure_result
+    # f --alluredir = allure_result

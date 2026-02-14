@@ -1,0 +1,1 @@
+{"name": "test_login_negative", "status": "passed", "start": 1760028464766, "stop": 1760028466884, "uuid": "56d5f173-7e1f-4ae9-bb3e-fdd52c206823", "testCaseId": "39f8700e0628b867ac09aeb92afe87d5", "fullName": "tests.vwoLoginTests.test_login#test_login_negative", "titlePath": ["tests", "vwoLoginTests", "test_login.py"]}
